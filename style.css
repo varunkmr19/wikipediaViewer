@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Bellefair');
+img {
+	vertical-align: middle;
+	padding-top: 10%;
+	margin-bottom: 20%
+}
+.search-container {
+	padding: .39rem;
+	vertical-align: middle;
+	text-align: center;
+	margin: 0 auto 1..95rem auto;
+	width: 540px;
+	float: none;
+	max-width: 100%;
+}
+
+.search-input input {
+    height: 40px;
+    width: 80%;
+    vertical-align: middle; 
+}
+.heading {
+	font-family: 'Architects Daughter', cursive;
+	font-size: 40px;
+}
+.sub-heading{
+	font-family: 'Bellefair', serif;
+}
+#display-result {
+  background-color: #eee;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  text-align: left;
+  vertical-align: middle;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+#display-result a{
+	color: inherit;
+}
